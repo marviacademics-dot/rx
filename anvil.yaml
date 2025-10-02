@@ -1,6 +1,13 @@
 allow_embedding: false
-metadata: {description: DAILY ATTENDANCE AND WORKING  HOUR SUMMARY, title: WORK HUB}
+db_schema:
+  table_1:
+    client: none
+    columns: []
+    server: full
+    title: Table 1
+metadata: {description: DAILY ATTENDANCE AND WORKING  HOUR SUMMARY, logo_img: 'asset:WhatsApp Image 2025-10-02 at 12.09.12_99dcb827.jpg', title: WORK HUB}
 name: Rx
+native_deps: {head_html: ''}
 package_name: Rx
 runtime_options:
   client_version: '3'

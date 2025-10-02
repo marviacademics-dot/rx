@@ -1,9 +1,5 @@
-components:
-- layout_properties: {slot: default}
-  name: content_panel
-  properties: {}
-  type: ColumnPanel
+components: []
 container:
-  properties: {html: '@theme:dashboard.html'}
+  properties: {html: '@theme:dashboard.html', visible: true}
   type: HtmlTemplate
 is_package: true
